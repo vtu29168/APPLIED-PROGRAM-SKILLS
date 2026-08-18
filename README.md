@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0217-contains-duplicate) |
+| [1480-running-sum-of-1d-array](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1480-running-sum-of-1d-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0217-contains-duplicate) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
