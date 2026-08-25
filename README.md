@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0217-contains-duplicate) |
 | [0704-binary-search](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1480-running-sum-of-1d-array) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0217-contains-duplicate) |
 ## Prefix Sum
 |  |
@@ -29,4 +31,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0704-binary-search) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0075-sort-colors) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
