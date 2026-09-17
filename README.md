@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0739-daily-temperatures) |
 | [0946-validate-stack-sequences](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1480-running-sum-of-1d-array) |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1685-sum-of-absolute-differences-in-a-sorted-array) |
 ## Hash Table
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0496-next-greater-element-i) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0704-binary-search) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Linked List
 |  |
 | ------- |
@@ -112,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0735-asteroid-collision) |
 | [0946-validate-stack-sequences](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0946-validate-stack-sequences) |
+## Sliding Window
+|  |
+| ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 <!---LeetCode Topics End-->
