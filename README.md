@@ -48,4 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Linked List
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0025-reverse-nodes-in-k-group) |
+## Recursion
+|  |
+| ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0025-reverse-nodes-in-k-group) |
 <!---LeetCode Topics End-->
