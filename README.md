@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0739-daily-temperatures) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0232-implement-queue-using-stacks) |
 | [0901-online-stock-span](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
@@ -120,4 +122,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
