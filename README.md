@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0739-daily-temperatures) |
+| [0867-transpose-matrix](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0946-validate-stack-sequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0735-asteroid-collision) |
+| [0867-transpose-matrix](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0867-transpose-matrix) |
 | [0946-validate-stack-sequences](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0946-validate-stack-sequences) |
 ## Sliding Window
 |  |
@@ -128,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0232-implement-queue-using-stacks) |
+## Matrix
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
