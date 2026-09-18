@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0704-binary-search) |
 | [0735-asteroid-collision](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0735-asteroid-collision) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0160-intersection-of-two-linked-lists) |
+| [0283-move-zeroes](https://github.com/vtu29168/APPLIED-PROGRAM-SKILLS/tree/master/0283-move-zeroes) |
 ## Quicksort
 |  |
 | ------- |
